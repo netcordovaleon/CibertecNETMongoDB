@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qH8RtrA1w66ki/elfIhpc4iyQmy5ZujG+h9Znm+xCovcsmNABflRnEQirOpjJlXI9Ze3++D1CxcGMjLwg39XwA==",
+  "success": true,
+  "projectFilePath": "C:\\lcordova\\cibertec\\nosql\\EjemploConCodigo\\SolMongoDB\\AppConexion\\AppConexion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

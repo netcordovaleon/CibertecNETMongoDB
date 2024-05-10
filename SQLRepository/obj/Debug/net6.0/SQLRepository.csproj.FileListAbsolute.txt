@@ -1,0 +1,12 @@
+C:\lcordova\cibertec\nosql\EjemploConCodigo\SolMongoDB\SQLRepository\bin\Debug\net6.0\SQLRepository.deps.json
+C:\lcordova\cibertec\nosql\EjemploConCodigo\SolMongoDB\SQLRepository\bin\Debug\net6.0\SQLRepository.dll
+C:\lcordova\cibertec\nosql\EjemploConCodigo\SolMongoDB\SQLRepository\bin\Debug\net6.0\SQLRepository.pdb
+C:\lcordova\cibertec\nosql\EjemploConCodigo\SolMongoDB\SQLRepository\obj\Debug\net6.0\SQLRepository.csproj.AssemblyReference.cache
+C:\lcordova\cibertec\nosql\EjemploConCodigo\SolMongoDB\SQLRepository\obj\Debug\net6.0\SQLRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\lcordova\cibertec\nosql\EjemploConCodigo\SolMongoDB\SQLRepository\obj\Debug\net6.0\SQLRepository.AssemblyInfoInputs.cache
+C:\lcordova\cibertec\nosql\EjemploConCodigo\SolMongoDB\SQLRepository\obj\Debug\net6.0\SQLRepository.AssemblyInfo.cs
+C:\lcordova\cibertec\nosql\EjemploConCodigo\SolMongoDB\SQLRepository\obj\Debug\net6.0\SQLRepository.csproj.CoreCompileInputs.cache
+C:\lcordova\cibertec\nosql\EjemploConCodigo\SolMongoDB\SQLRepository\obj\Debug\net6.0\SQLRepository.dll
+C:\lcordova\cibertec\nosql\EjemploConCodigo\SolMongoDB\SQLRepository\obj\Debug\net6.0\refint\SQLRepository.dll
+C:\lcordova\cibertec\nosql\EjemploConCodigo\SolMongoDB\SQLRepository\obj\Debug\net6.0\SQLRepository.pdb
+C:\lcordova\cibertec\nosql\EjemploConCodigo\SolMongoDB\SQLRepository\obj\Debug\net6.0\ref\SQLRepository.dll

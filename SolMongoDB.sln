@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIMongoDB", "APIMongoDB\APIMongoDB.csproj", "{6DECCF0A-EC93-4C95-B0E0-7E4251B3DACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoRepository", "MongoRepository\MongoRepository.csproj", "{A0BF5B7A-3119-4149-B434-E5F7581B408D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLRepository", "SQLRepository\SQLRepository.csproj", "{B122EA35-E965-4618-8E26-23CAF3534435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DECCF0A-EC93-4C95-B0E0-7E4251B3DACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DECCF0A-EC93-4C95-B0E0-7E4251B3DACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DECCF0A-EC93-4C95-B0E0-7E4251B3DACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DECCF0A-EC93-4C95-B0E0-7E4251B3DACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0BF5B7A-3119-4149-B434-E5F7581B408D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BF5B7A-3119-4149-B434-E5F7581B408D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BF5B7A-3119-4149-B434-E5F7581B408D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BF5B7A-3119-4149-B434-E5F7581B408D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B122EA35-E965-4618-8E26-23CAF3534435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B122EA35-E965-4618-8E26-23CAF3534435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B122EA35-E965-4618-8E26-23CAF3534435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B122EA35-E965-4618-8E26-23CAF3534435}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38B0429A-6256-4E24-B3D9-47ED73BA2E91}
+	EndGlobalSection
+EndGlobal
